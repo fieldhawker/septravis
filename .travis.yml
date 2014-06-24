@@ -5,6 +5,6 @@ deploy:
   password:
     secure: Z8NmNSN6cnyzgBLMYbeF2Tms3anHEs2opaSA9tV+h0BDkQlYTC/QKg3xfStZyBarp+4VAlYM7dxlF8c/3WrBC3w3SeR7acN6VHhS8ecA+KYML5Zhlr9zfOgD3JdVtldTWX/qDzAL+ccAEildiPPLacceC0EwhAv14wl/y/dJkV0=
   app: septravis
-  domain: travis-sepro.rhcloud.com
+  domain: septravis-sepro.rhcloud.com
   on:
     repo: fieldhawker/septravis
